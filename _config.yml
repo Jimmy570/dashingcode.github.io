@@ -1,0 +1,28 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://dashingcode.github.io
+title: DashingCode
+email: your-email@domain.com
+author: Stefan Koslowski
+description: > # "Write an awesome description for your new site here. 
+  DashingCode Software Development.
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: github
+    url: https://github.com/dashingcode
+  - title: twitter
+    url: https://twitter.com/dashingcodenews

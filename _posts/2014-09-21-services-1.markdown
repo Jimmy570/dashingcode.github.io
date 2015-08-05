@@ -1,0 +1,8 @@
+---
+layout: default
+img: freedom.png
+category: Services
+title: Freedom is essential
+description: |
+---
+Our Software is free as in freedom. We believe that everyone should have the freedom to run, share, modify and redistribute software.

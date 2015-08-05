@@ -1,0 +1,8 @@
+---
+layout: default
+img: eye.png
+category: Services
+title: Privacy is essential
+description: |
+---
+Privacy in the digital age is more important than ever. Mass surveillance and personal data analysis is a serious threat to that. Our services will never make use of such technologies.
